@@ -12,7 +12,7 @@ Python Chatbot Sample for the Microsoft Embrace University Outreach Prompt Engin
 3. Install Python Pip requirements:
 `pip install -r requirements.txt`
 
-4. Replace the API Key:
+4. Replace the API Key in `chatbot.py`:
 `<YOUR_API_KEY>` with the API key from the playground, e.g. `00000000-0000-0000-0000-000000000000`
 
 5. Run the script:
